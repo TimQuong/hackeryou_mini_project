@@ -1,0 +1,126 @@
+
+html {
+	font-size: 62.5%; 
+}
+
+body {font-family: 'Barlow', sans-serif;
+
+}
+
+header {
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/header.jpg");
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0,0,0,0.5);
+	
+}
+
+p{
+	font-size: 1.5rem; 
+}
+
+h3{ font-size: 2.75rem}
+
+
+.logo {
+	display: inline-block;
+	margin-left: 10%; 
+}
+
+.logo h1{color: white;
+	border: 2px solid white;
+	width: 80px;
+	height: 80px;
+	font-size: 60px;
+	text-align: center;
+	font-size: 6rem; 
+	margin-left: 10%; 
+	padding-top: 5px; 
+}
+
+nav {
+	display: inline-block;
+	text-align: right; 
+	width: 25%;
+	float: right; 
+	padding-top: 4.5%; 
+	margin-right: 10%; 
+
+}
+
+nav ul {
+	margin-right: 10%; 
+}
+
+nav li {
+	display: inline;
+	padding: 10px;
+}
+
+nav a {
+		color: white;
+		text-decoration: none; 
+		font-size: 2rem;
+}
+
+.heading h2 {
+	border: 2px solid white;
+	color: white;
+	font-size: 4rem; 
+	text-align: center;
+	width: 15%; 	
+	margin: auto;
+	height: 10%; 
+	line-height: 50px;
+	padding: 10px; 
+	letter-spacing: 3px; 
+}
+
+figcaption {
+	font-size: 2rem; 
+	text-align: center;
+}
+
+
+footer {
+	background-color: #e8e5e5;
+	height: 50px;
+}
+
+footer * {
+	margin-left: 10%; 
+	padding-top: 15px;
+}
+
+.about {
+	background-color: #e8e5e5; 
+	height: 225px; 
+}	
+
+.about-content {
+	margin-left: 10%; 
+	margin-right: 10%; 
+	padding-top: 30px; 
+}
+
+.about-content h4{
+	font-size: 1.75rem; 
+}
+
+}
+.recipe-container {
+	margin-left: 10%;
+}
+
+#recipes {
+	margin-left: 10%;
+}
+
+.recipe-container figure {
+	display: inline-block;
+}
+
+.recipe-images {
+	margin-left: 8%; 
+}
